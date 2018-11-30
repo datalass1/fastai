@@ -18,3 +18,6 @@ YOU WILL LEARN HOW TO:<br>
 - Understand the components of a neural network, including activation functions, dense and convolutional layers, and optimizers
 - Build, debug, and visualize a recurrent neural network (RNN) for natural language processing (NLP), including developing a sentiment classifier which beat all previous academic benchmarks.
 - Recognize and deal with over-fitting, by using data augmentation, dropout, batch normalization, and similar techniques
+
+### managing the fastai project
+I will add issues to keep track of the tasks completed as part of the fastai course.
