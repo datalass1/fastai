@@ -21,3 +21,9 @@ YOU WILL LEARN HOW TO:<br>
 
 ### managing the fastai project
 I will add issues to keep track of the tasks completed as part of the fastai course.
+
+
+# Machine Learning with Fast AI 
+Learn the most important machine learning models, including how to create them yourself from scratch, as well as key skills in data preparation, model validation, and building data products.
+
+There are around 24 hours of lessons
