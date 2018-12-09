@@ -1,6 +1,5 @@
 ### quick links:
 - go to Paperspace: https://www.paperspace.com/console/machines and start fastai machine 
-- for direct jupyter notebook go to this link: http://localhost:8888/?token=ab8f0f321d3c07733e8d3ed5c2d0a38bc2723d9611518b6d
 - to use local bash $ ssh paperspace 
 - open jupyter notebook in bash $ jupyter notebook
 
