@@ -4,7 +4,7 @@
 - open jupyter notebook in bash $ jupyter notebook
 
 ### notes:
-see issues open and closed for notes on all fastai work, course extra work and some of the solutions to technical requirements of the course
+see issues open and closed for notes on all fastai work, extra course work and some of the solutions to technical requirements of the course
 
 # fastai
 this repo will show any code covered during the fastai course
