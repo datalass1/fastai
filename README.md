@@ -30,6 +30,9 @@ YOU WILL LEARN HOW TO:<br>
 ### managing the fastai project
 I will add issues to keep track of the tasks completed as part of the fastai course.
 
+### recommended journal papers
+Visualizing and Understanding Convolutional Networks, Matthew D. Zeiler, Rob Fergus: https://arxiv.org/pdf/1311.2901.pdf
+Cyclical Learning Rates for Training Neural Networks, Leslie N. Smith: https://arxiv.org/pdf/1506.01186.pdf
 
 ## Machine Learning with Fast AI 
 Learn the most important machine learning models, including how to create them yourself from scratch, as well as key skills in data preparation, model validation, and building data products.
