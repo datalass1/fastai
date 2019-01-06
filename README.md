@@ -39,4 +39,4 @@ Learn the most important machine learning models, including how to create them y
 
 There are around 24 hours of lessons
 
-The ml1 lesson 1-5 notes are by Cedrick [Chee github account](https://github.com/cedrickchee/knowledge/tree/master/courses/fast.ai/machine-learning/2017-edition) which have been cloned as additional learning resources I have found insightful.
+The ml1 lesson 1-5 notes are by [Cedrick Chee github account](https://github.com/cedrickchee/knowledge/tree/master/courses/fast.ai/machine-learning/2017-edition) which have been cloned as additional learning resources I have found insightful.
