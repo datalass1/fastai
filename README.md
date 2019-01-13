@@ -11,7 +11,7 @@ this repo will show any code covered during the fastai course
 
 ## Practical Deep Learning For Coders Part 1
 ### 2018 edition of fast.ai's 7 week course, Practical Deep Learning For Coders Part 1, taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic).
-Created/Taught by Jeremy Howard and team @ [USFCA](https://www.usfca.edu/data-institute)
+Created/Taught by Jeremy Howard, Rachel Thomas and team @ [USFCA](https://www.usfca.edu/data-institute)
  
 https://course.fast.ai/
  
