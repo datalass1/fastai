@@ -1,10 +1,4 @@
-### quick links:
-- go to Paperspace: https://www.paperspace.com/console/machines and start fastai machine 
-- to use local bash $ ssh paperspace 
-- open jupyter notebook in bash $ jupyter notebook
-
-### notes:
-see issues open and closed for notes on all fastai work, extra course work and some of the solutions to technical requirements of the course
+see issues open and closed for notes on all fastai work, extra course work and some of the solutions to technical ordeals *cough* challenges of the course
 
 # fastai
 this repo will show any code covered during the fastai course
