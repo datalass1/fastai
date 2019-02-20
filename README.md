@@ -1,4 +1,4 @@
-see issues open and closed for notes on all fastai work, extra course work and some of the solutions to technical ordeals *cough* challenges of the course
+see issues open and closed for notes on all fastai work, extra course work and some of the solutions to technical challenges of the course
 
 # fastai
 this repo will show any code covered during the fastai course
