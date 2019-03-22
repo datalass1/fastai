@@ -29,6 +29,9 @@ I will add issues to keep track of the tasks completed as part of the fastai cou
 Visualizing and Understanding Convolutional Networks, Matthew D. Zeiler, Rob Fergus: https://arxiv.org/pdf/1311.2901.pdf
 Cyclical Learning Rates for Training Neural Networks, Leslie N. Smith: https://arxiv.org/pdf/1506.01186.pdf
 
+### resources and interative demos
+- [Neural Network playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-gauss&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.44189&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
+
 ## Machine Learning with Fast AI 
 Learn the most important machine learning models, including how to create them yourself from scratch, as well as key skills in data preparation, model validation, and building data products.
 
