@@ -44,9 +44,17 @@ learn.fit_one_cycle(2, max_lr=slice(1e-6,1e-4))
 ```
 - Additionally a model with more layers, ResNet50, could be used to improve the model. 
 
+### Lessonn 2: Deeper Dive into Computer Vision: Data cleaning and production; SGD from scratch
 
+[Link to my note(s](https://github.com/datalass1/fastai/issues/21)
 
+[Recommended and detailed fastai notes by hiromis](https://github.com/hiromis/notes/blob/master/Lesson2.md)
 
+Summary:
+- "If your're stuck, keep going"
+- The Google Image javaScipt to collect your ow imagery is inspired by Adrian Rosebrock on pyimagesearch. 
+- [gi2ds is an amazing tool](https://github.com/toffebjorkskog/ml-tools/blob/master/gi2ds.md)
+- TO BE CONTINUED...
 
 
 ### Recommended journal papers
