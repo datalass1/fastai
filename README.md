@@ -1,5 +1,7 @@
 See issues open and closed for notes on all fastai work. Issues are used to task work and record solutions throughout the course. Below is a summary of the fastai deep learning experience from December 2018 to May 2019. 
 
+This README.md will include all the highlights, links and techytips I have found useful throughout the course. 
+
 # fastai: Practical Deep Learning For Coders Part 1 v3
 Created/Taught by Jeremy Howard, Rachel Thomas and team @ [USFCA](https://www.usfca.edu/data-institute)
 
@@ -16,14 +18,9 @@ My notes are [here](https://github.com/datalass1/fastai/issues/20)
 
 ## Lesson 1: Image Classification
 
+The course is taught in a top down style. Meaning that you learn how something works before you learn why it works. So let's get started. 
 
-
-
-
-
-
-
-
+[PyTorch](https://pytorch.org/) 
 
 ### Recommended journal papers
 Visualizing and Understanding Convolutional Networks, Matthew D. Zeiler, Rob Fergus: https://arxiv.org/pdf/1311.2901.pdf
