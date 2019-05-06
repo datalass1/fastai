@@ -42,7 +42,7 @@ learn.recorder.plot()
 learn.unfreeze()
 learn.fit_one_cycle(2, max_lr=slice(1e-6,1e-4))
 ```
-- Additionally a model with more layers, ResNet50, could be used. 
+- Additionally a model with more layers, ResNet50, could be used to improve the model. 
 
 
 
