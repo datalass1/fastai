@@ -7,7 +7,6 @@ Created/Taught by Jeremy Howard, Rachel Thomas and team @ [USFCA](https://www.us
 
 [Link to fastai course homepage](https://course.fast.ai/)
 
-### Getting Started
 #### 0. Set-up cloud computing
 I decided to use Google Cloud Platform compute with £230.58 free credit for 1 year. [This is a wonderful tutorial](https://course.fast.ai/start_gcp.html) to get started and refer back to. 
 My notes are [here](https://github.com/datalass1/fastai/issues/18)
@@ -44,7 +43,7 @@ learn.fit_one_cycle(2, max_lr=slice(1e-6,1e-4))
 ```
 - Additionally a model with more layers, ResNet50, could be used to improve the model. 
 
-### Lessonn 2: Deeper Dive into Computer Vision: Data cleaning and production; SGD from scratch
+### Lesson 2: Deeper Dive into Computer Vision: Data cleaning and production; SGD from scratch
 
 [Link to my note(s](https://github.com/datalass1/fastai/issues/21)
 
